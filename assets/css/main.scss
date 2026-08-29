@@ -9,12 +9,15 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 /* Target feature_row images only on the people page */
-.people-page .feature__item img {
-    width: 500px ;
-    height: 500px ;
+.people-page .feature__item {
     display: flex;
     justify-content: center;
     align-items: center; 
+}
+
+.people-page .feature__item img {
+    width: 500px ;
+    height: 500px ;
     object-fit: cover; /* Ensures the image fills the 300x300 square without stretching or distorting */
     border-radius: 12px; /* Optional: matches your existing team profile image styling */
 }
