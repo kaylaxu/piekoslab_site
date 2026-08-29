@@ -5,6 +5,9 @@ search: false
 
 @charset "utf-8";
 
+$max-width: 1600px;     /* Increases the maximum width of the entire site container (default is 1280px) */
+$content-width: 1200px; /* Increases the maximum width of the text/content area (default is 800px) */
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 

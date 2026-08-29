@@ -18,6 +18,11 @@ sam_piekos:
     excerpt: |
         *Assistant Professor of Informatics and Genetics*
 
+        Ashley is a PhD candidate in Epidemiology at the University of Pennsylvania. Her research interests span social and injury epidemiology as well as the health impacts of extreme weather exposure, from birth through later life; her dissertation examines the effects of wildfire smoke and extreme heat on perinatal outcomes. She previously served as a Peace Corps Volunteer in Rwanda and worked in philanthropy supporting injury and violence prevention programs in Philadelphia. 
+        
+        Fun fact: Ashley once biked across the country, and still enjoys spending time outside cycling around Philly — and time with her cat, Peach.'
+
+
 
 
 ashley_trocle:
@@ -38,12 +43,22 @@ kayla_xu:
     excerpt: |
         *Ph.D. Student, Genomics and Computational Biology*
 
+        Ashley is a PhD candidate in Epidemiology at the University of Pennsylvania. Her research interests span social and injury epidemiology as well as the health impacts of extreme weather exposure, from birth through later life; her dissertation examines the effects of wildfire smoke and extreme heat on perinatal outcomes. She previously served as a Peace Corps Volunteer in Rwanda and worked in philanthropy supporting injury and violence prevention programs in Philadelphia. 
+        
+        Fun fact: Ashley once biked across the country, and still enjoys spending time outside cycling around Philly — and time with her cat, Peach.'
+
+
 kayson_yao:
   - image_path: /assets/images/kayson_yao.png
     alt: "Kayson Yao"
     title: "Kayson Yao"
     excerpt: |
         *Master's Student, Scientific Computing*
+
+        Ashley is a PhD candidate in Epidemiology at the University of Pennsylvania. Her research interests span social and injury epidemiology as well as the health impacts of extreme weather exposure, from birth through later life; her dissertation examines the effects of wildfire smoke and extreme heat on perinatal outcomes. She previously served as a Peace Corps Volunteer in Rwanda and worked in philanthropy supporting injury and violence prevention programs in Philadelphia. 
+        
+        Fun fact: Ashley once biked across the country, and still enjoys spending time outside cycling around Philly — and time with her cat, Peach.'
+
 
 jenn_ko:
   - image_path: /assets/images/jenn_ko.jpg
@@ -52,12 +67,22 @@ jenn_ko:
     excerpt: |
         *Ph.D. Candidate, Epidemiology and Biostatistics*
 
+        Ashley is a PhD candidate in Epidemiology at the University of Pennsylvania. Her research interests span social and injury epidemiology as well as the health impacts of extreme weather exposure, from birth through later life; her dissertation examines the effects of wildfire smoke and extreme heat on perinatal outcomes. She previously served as a Peace Corps Volunteer in Rwanda and worked in philanthropy supporting injury and violence prevention programs in Philadelphia. 
+        
+        Fun fact: Ashley once biked across the country, and still enjoys spending time outside cycling around Philly — and time with her cat, Peach.'
+
+
 anusha_sundar:
   - image_path: /assets/images/anusha_sundar.jpeg
     alt: "Anusha Sundar"
     title: "Anusha Sundar"
     excerpt: |
         *Undergraduate, Bioengineering*
+
+        Ashley is a PhD candidate in Epidemiology at the University of Pennsylvania. Her research interests span social and injury epidemiology as well as the health impacts of extreme weather exposure, from birth through later life; her dissertation examines the effects of wildfire smoke and extreme heat on perinatal outcomes. She previously served as a Peace Corps Volunteer in Rwanda and worked in philanthropy supporting injury and violence prevention programs in Philadelphia. 
+        
+        Fun fact: Ashley once biked across the country, and still enjoys spending time outside cycling around Philly — and time with her cat, Peach.'
+
 
 
 ---
