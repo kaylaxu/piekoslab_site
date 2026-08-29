@@ -13,16 +13,12 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 
 sam_piekos:
   - image_path: /assets/images/sam_piekos.jpeg
-    width: 300px
-    height: 300px
     alt: "placeholder image 2"
     title: "Dr. Samantha N. Piekos, Ph.D."
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
 
 ashley_trocle:
   - image_path: /assets/images/ashley_trocle.png
-    width: 300px
-    height: 300px
     alt: "placeholder image 2"
     title: "Ashley Trocle, MPH"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'

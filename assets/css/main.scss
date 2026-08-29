@@ -10,8 +10,9 @@ search: false
 
 /* Target feature_row images only on the people page */
 .people-page .feature__item img {
-    width: 300px;
-    height: 300px;
+    width: 300px !important;
+    height: 300px !important;
+    max-width: 300px !important;
     object-fit: cover; /* Ensures the image fills the 300x300 square without stretching or distorting */
     border-radius: 12px; /* Optional: matches your existing team profile image styling */
 }
