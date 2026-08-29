@@ -13,6 +13,7 @@ search: false
     width: 400px !important;
     height: 400px !important;
     max-width: 400px !important;
+    object-position: top center;
     object-fit: cover; /* Ensures the image fills the 300x300 square without stretching or distorting */
     border-radius: 25px; /* Optional: matches your existing team profile image styling */
 }
