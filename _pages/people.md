@@ -13,41 +13,42 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 
 sam_piekos:
   - image_path: /assets/images/sam_piekos.jpeg
-    alt: "placeholder image 2"
+    alt: "Dr. Samantha N. Piekos, Ph.D."
     title: "Dr. Samantha N. Piekos, Ph.D."
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Assistant Professor of Informatics and Genetics'
 
 ashley_trocle:
   - image_path: /assets/images/ashley_trocle.png
-    alt: "placeholder image 2"
+    alt: "Ashley Trocle, MPH"
     title: "Ashley Trocle, MPH"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Ph.D. Candidate, Epidemiology and Biostatistics'
+    content: 'Ashley is a PhD candidate in Epidemiology at the University of Pennsylvania. Her research interests span social and injury epidemiology as well as the health impacts of extreme weather exposure, from birth through later life; her dissertation examines the effects of wildfire smoke and extreme heat on perinatal outcomes. She previously served as a Peace Corps Volunteer in Rwanda and worked in philanthropy supporting injury and violence prevention programs in Philadelphia. Fun fact: Ashley once biked across the country, and still enjoys spending time outside cycling around Philly — and time with her cat, Peach.'
 
 kayla_xu:
   - image_path: /assets/images/kayla_xu.jpeg
     width: 300px
     height: 300px
-    alt: "placeholder image 2"
+    alt: "Kayla Xu"
     title: "Kayla Xu"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Ph.D. Student, Genomics and Computational Biology'
 
 kayson_yao:
   - image_path: /assets/images/kayson_yao.png
-    alt: "placeholder image 2"
+    alt: "Kayson Yao"
     title: "Kayson Yao"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: "Master's Student, Scientific Computing"
 
 jenn_ko:
   - image_path: /assets/images/jenn_ko.jpg
-    alt: "placeholder image 2"
+    alt: "Jenn Ko"
     title: "Jenn Ko"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Ph.D. Candidate, Epidemiology and Biostatistics'
 
 anusha_sundar:
   - image_path: /assets/images/anusha_sundar.jpeg
-    alt: "placeholder image 2"
+    alt: "Anusha Sundar"
     title: "Anusha Sundar"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Undergraduate, Bioengineering'
 
 
 ---
