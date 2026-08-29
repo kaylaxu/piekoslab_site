@@ -52,17 +52,17 @@ anusha_sundar:
 
 ---
 
-{% include feature_row id="sam_piekos" %}
+{% include feature_row id="sam_piekos" type=left%}
 
 <h1>Current Members</h1>
 <hr>
 
-{% include feature_row id="ashley_trocle" %}
-{% include feature_row id="kayla_xu"  %}
-{% include feature_row id="kayson_yao" %}
+{% include feature_row id="ashley_trocle" type=left%}
+{% include feature_row id="kayla_xu" type=left%}
+{% include feature_row id="kayson_yao" type=left%}
 
 <h1>Past Members</h1>
 <hr>
 
-{% include feature_row id="jenn_ko"  %}
-{% include feature_row id="anusha_sundar"  %}
+{% include feature_row id="jenn_ko"  type=left%}
+{% include feature_row id="anusha_sundar"  type=left%}
