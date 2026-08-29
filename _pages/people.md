@@ -21,13 +21,16 @@ ashley_trocle:
   - image_path: /assets/images/ashley_trocle.png
     alt: "Ashley Trocle, MPH"
     title: "Ashley Trocle, MPH"
-    excerpt: 'Ph.D. Candidate, Epidemiology and Biostatistics'
-    content: 'Ashley is a PhD candidate in Epidemiology at the University of Pennsylvania. Her research interests span social and injury epidemiology as well as the health impacts of extreme weather exposure, from birth through later life; her dissertation examines the effects of wildfire smoke and extreme heat on perinatal outcomes. She previously served as a Peace Corps Volunteer in Rwanda and worked in philanthropy supporting injury and violence prevention programs in Philadelphia. Fun fact: Ashley once biked across the country, and still enjoys spending time outside cycling around Philly — and time with her cat, Peach.'
+    excerpt: |
+    
+        *Ph.D. Candidate, Epidemiology and Biostatistics*
+        
+        Ashley is a PhD candidate in Epidemiology at the University of Pennsylvania. Her research interests span social and injury epidemiology as well as the health impacts of extreme weather exposure, from birth through later life; her dissertation examines the effects of wildfire smoke and extreme heat on perinatal outcomes. She previously served as a Peace Corps Volunteer in Rwanda and worked in philanthropy supporting injury and violence prevention programs in Philadelphia. 
+        
+        Fun fact: Ashley once biked across the country, and still enjoys spending time outside cycling around Philly — and time with her cat, Peach.'
 
 kayla_xu:
   - image_path: /assets/images/kayla_xu.jpeg
-    width: 300px
-    height: 300px
     alt: "Kayla Xu"
     title: "Kayla Xu"
     excerpt: 'Ph.D. Student, Genomics and Computational Biology'
