@@ -20,3 +20,10 @@ $content-width: 1200px; /* Increases the maximum width of the text/content area 
     object-fit: cover; /* Ensures the image fills the 300x300 square without stretching or distorting */
     border-radius: 25px; /* Optional: matches your existing team profile image styling */
 }
+
+/* Forces the image wrappers to accommodate the full 400px height regardless of text length */
+.people-page .feature__item--left .archive__item,
+.people-page .feature__item--left .archive__item-teaser {
+    min-height: 400px !important;
+    overflow: visible !important;
+}
