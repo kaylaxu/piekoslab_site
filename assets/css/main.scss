@@ -27,3 +27,26 @@ $content-width: 1200px; /* Increases the maximum width of the text/content area 
     min-height: 300px !important;
     overflow: visible !important;
 }
+
+/* 1. Turn the entire row into a flex container to directly control spacing */
+.people-page .feature__item--left .archive__item {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 30px !important; /* Adjust this value (e.g., 20px, 40px) to increase/decrease the space */
+    align-items: flex-start !important;
+}
+
+/* 2. Strip the default theme margins and width percentages from the image container */
+.people-page .feature__item--left .archive__item-teaser {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: auto !important; 
+}
+
+/* 3. Strip the default margins from the text container and tell it to fill the remaining space */
+.people-page .feature__item--left .archive__item-body {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: auto !important;
+    flex: 1 !important; 
+}
